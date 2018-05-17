@@ -1,0 +1,29 @@
+h2{
+  text-align: center;
+  padding-right: 350px;
+  padding-bottom: 500px;
+}
+
+
+img{
+  float: left;
+}
+
+h3{
+  padding-bottom: 10px;
+}
+
+
+p{
+padding-bottom: 100px;
+padding-right: 250px;
+float: left;
+}
+
+body{
+  background-color: lightblue;
+}
+
+h1{
+  font-family: 'Patua One', cursive;
+}
